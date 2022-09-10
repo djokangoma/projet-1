@@ -3,12 +3,22 @@ body{
 	background: linear-gradient(90deg, rgba(199,197,244,1) 0%, rgba(119,107,204,1) 0%);
 }
 .container{
-    display: flex;
+/*     display: flex;
 		flex-direction: column;
     align-items: center;
     justify-content: center;
     height: 100vh;
-		z-index: 25;
+		z-index: 25; */
+}
+.login{
+    width: 320px;
+    padding: 30px;
+    padding-top: 156px;
+}
+.screen_content{
+    z-index: 1;
+    position: relative;
+    height: 100%;
 }
 .screen{
     background: linear-gradient(90deg, #5d54a4, #7c78b8);
