@@ -18,6 +18,21 @@ body{
     padding: 20px 0;
     position: relative;
 }
+.login_input{
+    border: none;
+    border-bottom: 2px solid #d1d1d4;
+    background: none;
+    padding: 10px;
+    padding-left: 24px;
+    font-weight: 700;
+    width: 75%;
+    transition: .2s;
+}
+.login_icon{
+    position: absolute;
+    top: 30px;
+    color: #7875b5;
+}
 .screen_content{
     z-index: 1;
     position: relative;
