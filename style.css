@@ -73,6 +73,11 @@ body{
     cursor: pointer;
     transition: .5s;
 }
+.button_icon{
+    font-size: 24px;
+    margin-left: auto;
+    color: #7875b5;
+}
 .screen_content{
     z-index: 1;
     position: relative;
