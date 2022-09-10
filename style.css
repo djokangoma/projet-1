@@ -7,13 +7,16 @@ body{
 		flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 100vh;
-		z-index: 25; */
+    height: 100vh; */
 }
 .login{
     width: 320px;
     padding: 30px;
     padding-top: 156px;
+}
+.login_field{
+    padding: 20px 0;
+    position: relative;
 }
 .screen_content{
     z-index: 1;
